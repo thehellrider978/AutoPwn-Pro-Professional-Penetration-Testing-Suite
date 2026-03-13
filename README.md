@@ -24,7 +24,7 @@ Full recon → enumeration → vulnerability scanning → PoC verification → H
 
 ## ⚠️ Legal Disclaimer
 
-> **AutoPwn Pro is for authorized penetration testing and bug bounty hunting ONLY.**  
+> **AutoPwn Pro is for authorized penetration testing and bug bounty hunting ONLY BY RAJESH BAJIYA.**  
 > Only run this tool against systems you own or have **explicit written permission** to test.  
 > Unauthorized scanning is illegal under the Computer Fraud and Abuse Act (CFAA) and similar laws worldwide.  
 > The author is not responsible for any misuse of this tool.
