@@ -155,8 +155,7 @@ autopwn-pro/
 ### Step 1 — Clone the Repository
 
 ```bash
-git clone https://github.com/YOURUSERNAME/autopwn-pro.git
-cd autopwn-pro
+git clone https://github.com/thehellrider978/AutoPwn-Pro-Professional-Penetration-Testing-Suite.git
 ```
 
 ### Step 2 — Make Script Executable
